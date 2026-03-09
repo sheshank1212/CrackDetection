@@ -11,7 +11,7 @@ By combining unsupervised feature extraction with supervised classification, thi
 Below are visual examples of the concrete specimens at various stages of ultimate load failure:
 
 **30% Load Capacity**
-![30% Failure](images/REPLACE_WITH_YOUR_30_PERCENT_FILENAME.jpg)
+![30% Failure](images/Picture7.png)
 
 **50% Load Capacity**
 ![50% Failure](images/REPLACE_WITH_YOUR_50_PERCENT_FILENAME.jpg)
