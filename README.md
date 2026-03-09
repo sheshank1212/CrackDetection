@@ -35,12 +35,12 @@ Below are visual examples of the concrete specimens at various stages of ultimat
 
 * **CatBoost Classification:** Achieved **85%** accuracy with a **perfect recall (1.00)** for the damaged class, ensuring zero missed cracks (no false negatives).
 * **CatBoost Classification**
-![CatBoost Classification](Images/final.png)
+![CatBoost Classification](Images/cat.png)
 * **Loss Function:** The Autoencoder utilized a multi-task learning approach with the following objective:
   `L_total = 0.5 * L_reconstruction + 1.5 * L_prediction`
 
   * **Result**
-![Result](Images/cat.png)
+![Result](Images/final.png)
 
 ## Repository Structure
 * `model1.ipynb` / `model2.ipynb`: Jupyter notebooks containing the data preprocessing, Autoencoder architecture, and CatBoost training pipelines.
