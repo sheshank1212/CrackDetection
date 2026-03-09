@@ -28,9 +28,19 @@ Below are visual examples of the concrete specimens at various stages of ultimat
 ## Performance & Results
 * **Autoencoder Regression:** Achieved an R-squared of **0.877** and a Mean Absolute Error (MAE) of **0.146**.
 * **Autoencoder Classification:** Achieved **95%** overall accuracy.
+
+* **Autoencoder Classification**
+![Autoencoder](Images/auto.png)
+
+
 * **CatBoost Classification:** Achieved **85%** accuracy with a **perfect recall (1.00)** for the damaged class, ensuring zero missed cracks (no false negatives).
+* **CatBoost Classification**
+![CatBoost Classification](Images/final.png)
 * **Loss Function:** The Autoencoder utilized a multi-task learning approach with the following objective:
   `L_total = 0.5 * L_reconstruction + 1.5 * L_prediction`
+
+  * **Result**
+![Result](Images/cat.png)
 
 ## Repository Structure
 * `model1.ipynb` / `model2.ipynb`: Jupyter notebooks containing the data preprocessing, Autoencoder architecture, and CatBoost training pipelines.
