@@ -14,7 +14,7 @@ Below are visual examples of the concrete specimens at various stages of ultimat
 ![30% Failure](Images/Picture7.png)
 
 **50% Load Capacity**
-![50% Failure](images/REPLACE_WITH_YOUR_50_PERCENT_FILENAME.jpg)
+![50% Failure](Images/Picture7.png)
 
 **100% Load Capacity (Failure)**
 ![100% Failure](images/REPLACE_WITH_YOUR_100_PERCENT_FILENAME.jpg)
