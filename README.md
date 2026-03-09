@@ -11,13 +11,13 @@ By combining unsupervised feature extraction with supervised classification, thi
 Below are visual examples of the concrete specimens at various stages of ultimate load failure:
 
 **30% Load Capacity**
-![30% Failure](Images/Picture7.png)
+![30% Failure](Images/Picture11.png)
 
 **50% Load Capacity**
 ![50% Failure](Images/Picture7.png)
 
-**100% Load Capacity (Failure)**
-![100% Failure](images/REPLACE_WITH_YOUR_100_PERCENT_FILENAME.jpg)
+**90% Load Capacity (Failure)**
+![90% Failure](Images/Picture12.png)
 
 ## Key Features & Methodology
 * **Data Collection:** PZT sensors embedded in concrete specimens, capturing impedance data across progressive loading stages (0% to 100% ultimate load).
